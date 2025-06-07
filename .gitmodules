@@ -1,3 +1,6 @@
 [submodule "shadowsocks-libev-android"]
 	path = shadowsocks-libev-android
 	url = https://github.com/CounterScobak/shadowsocks-libev-android.git
+[submodule "shadowsocks-libev"]
+	path = shadowsocks-libev
+	url = https://github.com/CounterScobak/shadowsocks-libev.git
